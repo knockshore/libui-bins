@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+es5.js
+
+
+*.tgz
+
+
+tmp
+
