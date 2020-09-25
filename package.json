@@ -63,7 +63,7 @@
   "type": "module",
   "imports": {
     "#download": {
-      "node": "./index.js"
+      "node": "index.js"
     }
   },
   "bugs": {
