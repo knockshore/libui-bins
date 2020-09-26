@@ -12,7 +12,8 @@
   },
   "files": [
     "es5.js",
-    "cli.js"
+    "cli.js",
+	"index.js"
   ],
   "engines": {
     "node": ">=8"
